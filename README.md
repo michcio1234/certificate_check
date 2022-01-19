@@ -1,6 +1,6 @@
 # Certificate validation app
 
-A simple web app to check authenticity of a certificated issues on paper or as a PDF file.
+A simple web app to check authenticity of a certificate issued on paper or as a PDF file.
 
 ## What is it?
 
