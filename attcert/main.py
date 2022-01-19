@@ -3,7 +3,7 @@ from pathlib import Path
 
 from typing import List, Dict
 
-CSV_PATH = Path(__file__).parent / "attendees.csv"
+CSV_PATH = Path(__file__).parent / "data" / "attendees.csv"
 
 
 def read_csv(path: str | Path) -> List[tuple]:
